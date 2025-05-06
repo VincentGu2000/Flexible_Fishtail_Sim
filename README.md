@@ -30,3 +30,19 @@ Author:  Junwen Gu (顾俊文)
 
 Email:   gujunwen2022@ia.ac.cn
 
+
+If you find this simulation useful in your research, please cite:
+
+J. Gu, J. Wang, Z. Liu, M. Tan, J. Yu and Z. Wu, "Deformation Control and Thrust Analysis of a Flexible Fishtail With Muscle-Like Actuation," in IEEE Transactions on Robotics, vol. 41, pp. 159-179, 2025.
+
+```
+@article{gu_deformation_2025,
+  author = {Gu, Junwen and Wang, Jian and Liu, Zhijie and Tan, Min and Yu, Junzhi and Wu, Zhengxing},
+  journal = {IEEE Transactions on Robotics},
+  title={Deformation Control and Thrust Analysis of a Flexible Fishtail With Muscle-Like Actuation},
+  volume = {41},
+  pages={159-179},
+  year = {2025},
+  doi = {10.1109/TRO.2024.3502203}
+}
+```
